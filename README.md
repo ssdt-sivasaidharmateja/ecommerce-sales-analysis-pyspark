@@ -1,6 +1,6 @@
-# 🛍️ Ecommerce Sales Analysis using PySpark
+# 🛍️ E-commerce Sales Analysis using PySpark
 
-This project performs sales data analysis on an ecommerce dataset using **Apache Spark (PySpark)**. It calculates key business KPIs such as top-selling products, customer spending behavior, and city-wise pricing trends.
+This project performs sales data analysis on an e-commerce dataset using **Apache Spark (PySpark)**. It calculates key business KPIs such as top-selling products, customer spending behavior, and city-wise pricing trends.
 
 ---
 
@@ -17,7 +17,7 @@ This project performs sales data analysis on an ecommerce dataset using **Apache
 - Monthly Revenue Trends.
 - City Level Revenue.
 - City-Level Revenue Performance KPIs.
-- Top 10 Customer Lifetime Value
+- Top 10 Customer Lifetime Value.
 - Top categories.
 - Top Discounted Cities.
 - Top-Selling Product Category by City.  
